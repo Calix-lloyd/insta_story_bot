@@ -11,7 +11,7 @@
     background: linear-gradient(to right,#ffbbee, #9372F3FF)
 }
 .sidebar{
-    width: 280px;
+    width: 200px;
     position: fixed;
     left: 0;
     top: 0;
@@ -33,7 +33,7 @@
     padding-left: 1rem;
 }
 .side-menu a {
-    padding-left: 2rem;
+    padding-left: 3rem;
     display: block;
     color: white;
     font-size: 1.1rem;
